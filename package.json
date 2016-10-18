@@ -1,0 +1,22 @@
+{
+  "name": "sylvershine-helloworld-package",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SimonGonzalezCepeda/HelloWorldPackage-JS.git"
+  },
+  "author": "Simón González Cepeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonGonzalezCepeda/HelloWorldPackage-JS/issues"
+  },
+  "homepage": "https://github.com/SimonGonzalezCepeda/HelloWorldPackage-JS#readme"
+}
