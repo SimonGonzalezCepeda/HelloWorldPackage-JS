@@ -1,5 +1,7 @@
-var hello = function say(){
-    console.log("Hello World!");
-};
+function sayPrivate(){
+    return 'Hello world' . arguments[0];
+}
 
-exports.Hello = hello();
+exports.say = function (){
+    console.log(sayPrivate());
+};
